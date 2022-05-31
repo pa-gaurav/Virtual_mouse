@@ -218,7 +218,7 @@ while True:
     cv2.putText(img, str(int(fps)), (20, 50), cv2.FONT_HERSHEY_PLAIN, 3,
                 (0, 0, 255), 3)
 
-    ######################################  DISPLAY AND EXIT USING 'q' INPUT #######################################
+    ######################################  EXIT #######################################
 
     #cv2.imshow("GRV's PLAYGROUND", img)
 
