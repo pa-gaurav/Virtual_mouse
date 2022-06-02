@@ -13,10 +13,10 @@ This project stimulates a physical mouse which performs all the functions perfor
 
 5. For Dropping- Index and ring ginger should be up and others down.
 
-6. For Scrolling up- All fingers up, thumb dowm.
+6. For Scrolling up- All fingers up, thumb down.
 
 7. For Scrolling down- All fingers down, thumb up.
 
-8. For Exiting- Alll fingers up except middle finger.
+8. For Exiting- All fingers up except middle finger.
 
 These various mouse function are accessible by using PyAutoGUI a Python package that works across Windows, MacOS X and Linux which provides the ability to simulate mouse cursor moves and clicks as well as keyboard button presses.
